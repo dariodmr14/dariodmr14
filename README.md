@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:TU_CORREO"><img src="https://img.shields.io/badge/Email-1f6feb?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/dario-morales-riega"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:dariodmr14@gmail.com"><img src="https://img.shields.io/badge/Email-1f6feb?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS"/>
 </p>
 
@@ -18,7 +18,7 @@
 
 - 🎓 3rd-year **Software Engineering** student at the **University of Oviedo** (Spain)
 - 🛠️ Into **full-stack web**, **AI/LLM tools** and apps people actually use
-- ⚡ Currently building **[Sift](https://github.com/TU_USUARIO/sift)** — a desktop launcher with semantic search for Windows
+- ⚡ Currently building **[Sift](https://github.com/dariodmr14/sift)** — a desktop launcher with semantic search for Windows
 - 🌱 Learning: TypeScript, React, Node.js, databases & backend architecture
 - 🤝 Open to internships, open source and side projects
 
