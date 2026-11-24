@@ -1,22 +1,6 @@
 <!-- Cambia TU_USUARIO por tu usuario de GitHub y TU_LINKEDIN por tu URL de LinkedIn -->
 
-<br/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=34&duration=2200&pause=99999&color=E6EDF3&center=true&vCenter=true&repeat=false&width=640&height=60&lines=%3E+Dar%C3%ADo+Morales+Riega_" alt="Darío Morales Riega" />
-</p>
-
-<p align="center">
-  <code>Software Engineering Student · University of Oviedo</code>
-</p>
-
-<br/>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:TU_CORREO"><img src="https://img.shields.io/badge/Email-1f6feb?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,45:1b1f4b,100:6e40c9&height=210&text=Dar%C3%ADo%20Morales%20Riega&fontSize=46&fontColor=ffffff&fontAlignY=45&animation=fadeIn&stroke=a371f7&strokeWidth=0.6" width="100%" alt="Darío Morales Riega"/> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=2800&pause=1800&color=A371F7&center=true&vCenter=true&width=560&height=40&lines=%3E+Software+Engineering+Student;%3E+University+of+Oviedo+%C2%B7+Spain" alt="Software Engineering Student · University of Oviedo" /> </p> <p align="center"> <a href="https://www.linkedin.com/in/dario-morales-riega"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:dariodmr14@gmail.com"><img src="https://img.shields.io/badge/Email-6e40c9?style=for-the-badge&logo=gmail&logoColor=white"/></a> <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS"/> </p>
 
 ---
 
