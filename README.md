@@ -1,14 +1,20 @@
 <!-- Cambia TU_USUARIO por tu usuario de GitHub y TU_LINKEDIN por tu URL de LinkedIn -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=170&section=header&text=Dar%C3%ADo&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%C2%B7%20Oviedo&descAlignY=60&descSize=16" width="100%"/>
+<br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Full-stack+developer+in+the+making;Building+tools+that+save+time;Java+%E2%86%92+TypeScript+%2B+React+%2B+Node;Currently+building+Sift+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=34&duration=2200&pause=99999&color=E6EDF3&center=true&vCenter=true&repeat=false&width=640&height=60&lines=%3E+Dar%C3%ADo+Morales+Riega_" alt="Darío Morales Riega" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dario-morales-riega"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:dariodmr14@gmail.com"><img src="https://img.shields.io/badge/Email-1f6feb?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <code>Software Engineering Student · University of Oviedo</code>
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:TU_CORREO"><img src="https://img.shields.io/badge/Email-1f6feb?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS"/>
 </p>
 
@@ -18,7 +24,7 @@
 
 - 🎓 3rd-year **Software Engineering** student at the **University of Oviedo** (Spain)
 - 🛠️ Into **full-stack web**, **AI/LLM tools** and apps people actually use
-- ⚡ Currently building **[Sift](https://github.com/dariodmr14/sift)** — a desktop launcher with semantic search for Windows
+- ⚡ Currently building **[Sift](https://github.com/TU_USUARIO/sift)** — a desktop launcher with semantic search for Windows
 - 🌱 Learning: TypeScript, React, Node.js, databases & backend architecture
 - 🤝 Open to internships, open source and side projects
 
@@ -48,5 +54,3 @@
     <img alt="contribution snake" src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-snake.svg" />
   </picture>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=110&section=footer" width="100%"/>
