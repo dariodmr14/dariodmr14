@@ -47,12 +47,8 @@
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dariodmr14&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1f3c&title_color=d4a24c&icon_color=d4a24c&text_color=dbe4f0"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariodmr14&layout=compact&hide_border=true&bg_color=0d1f3c&title_color=d4a24c&text_color=dbe4f0"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dariodmr14&hide_border=true&background=0d1f3c&ring=d4a24c&fire=d4a24c&currStreakLabel=d4a24c&sideLabels=dbe4f0&currStreakNum=ffffff&sideNums=ffffff&dates=8fa6c8&stroke=24406b"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dariodmr14&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&custom_title=GitHub%20Stats&bg_color=0d1f3c&title_color=d4a24c&icon_color=d4a24c&text_color=dbe4f0&ring_color=d4a24c"/>
+  <img height="180" src="https://streak-stats.demolab.com?user=dariodmr14&hide_border=true&background=0d1f3c&ring=d4a24c&fire=d4a24c&currStreakLabel=d4a24c&sideLabels=dbe4f0&currStreakNum=ffffff&sideNums=ffffff&dates=8fa6c8&stroke=24406b"/>
 </p>
 
 <p align="center">
