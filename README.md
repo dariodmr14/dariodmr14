@@ -1,8 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1b1f4b,100:6e40c9&height=120&section=header" width="100%"/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=99999&color=A371F7&multiline=true&repeat=false&width=600&height=100&lines=const+name+%3D+%22Dar%C3%ADo+Morales+Riega%22%3B;const+role+%3D+%22Software+Engineering+Student%22%3B;const+uni++%3D+%22University+of+Oviedo%22%3B" alt="Darío Morales Riega · Software Engineering Student · University of Oviedo" />
-</p>
+<img src="./header.svg" width="100%" alt="Darío Morales Riega · Software Engineering Student · University of Oviedo"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dario-morales-riega/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -14,16 +10,11 @@
 
 ## 👨‍💻 About me
 
-```ts
-const dario = {
-  location:   "Oviedo, Spain 🇪🇸",
-  studying:   "Software Engineering @ University of Oviedo (3rd year)",
-  interests:  ["Full-stack web", "AI & LLM tools", "Developer tools"],
-  learning:   ["TypeScript", "React", "Node.js", "Backend & databases"],
-  building:   "Sift ⚡",
-  openTo:     ["Internships", "Open source", "Side projects"],
-};
-```
+- 🎓 **3rd-year Software Engineering student** at the **University of Oviedo** (Spain)
+- 🌐 Into **full-stack web**, **AI & LLM tools** and **developer tools**
+- 🌱 Learning **TypeScript, React, Node.js** and backend & databases
+- ⚡ Building **Sift** — launching soon
+- 🤝 Open to **internships, open source** and side projects
 
 <br/>
 
@@ -35,7 +26,11 @@ const dario = {
   <img src="https://img.shields.io/badge/shortcut-Alt%20%2B%20Space-1b1f4b?style=for-the-badge"/>
 </p>
 
-> **Type a topic. Get everything you need for it.**
+<p align="center">
+  <img src="./sift.svg" width="85%" alt="Sift demo: typing databases opens notes, folders, links and apps"/>
+</p>
+
+<p align="center"><b>Type a topic. Get everything you need for it.</b></p>
 
 **Sift** is a desktop launcher for Windows with **semantic search**. Press `Alt + Space`, type what you're working on, and Sift finds and opens everything related — even if the file names don't match.
 
